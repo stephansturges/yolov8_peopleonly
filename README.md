@@ -1,6 +1,6 @@
 ## What is this?
 
-It's a trained YOLOv8-nano model that only detects people and run at 640px x 640 px. It's a super basic training run just for a test, trained on the complete COCO dataset keeping only the "person" class.
+It's a trained YOLOv8-nano model that only detects people and run at 640px x 480 px. It's a super basic training run just for a test, trained on the complete COCO dataset keeping only the "person" class.
 
 It's free to use so knock yourself out! Just make sure to follow the Ultralytics terms of service around commercial use (https://github.com/ultralytics/ultralytics) since this uses their code for training.
 
